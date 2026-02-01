@@ -7,4 +7,4 @@
 
 # 🛠 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulohpm&layout=compact&theme=radical&hide=Jupyter%20Notebook&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=saulohpm&layout=compact&theme=radical&hide=Jupyter%20Notebook)
