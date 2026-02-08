@@ -23,4 +23,4 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulohpm&layout=compact&theme=radical&hide=Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats-mu-eight-26.vercel.app/api/top-langs/?username=saulohpm&layout=compact&theme=radical&hide=Jupyter%20Notebook)
