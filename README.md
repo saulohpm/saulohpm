@@ -11,7 +11,7 @@ Sou estudante de Matemática, Programação e Engenharia Mecânica
 ### 🧠 Computação Científica e Dados
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🌐 Desenvolvimento Web
 
