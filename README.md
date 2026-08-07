@@ -1,71 +1,32 @@
-<div align="center">
+# Hi, I'm Saulo 👋
 
-# Saulo
+Mathematics (Licentiate) student currently pursuing a graduate degree in Mathematics, with a background in Mechanical Engineering as well. I work at the intersection of mathematical modeling, numerical methods, and programming — building computational tools to solve scientific and engineering problems.
 
-**Matemática Aplicada × Métodos Numéricos × Python**
+🔭 Currently building my own numerical methods library in Python (see below)
+📚 Interests: mathematical modeling, computational simulation, numerical analysis, data science
 
-Licenciado em Matemática · Mestrando em Engenharia e Ciências Mecânicas
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shpm)
-</div>
-
----
-
-### 👋 Sobre mim
-
-Formação em Matemática, mestrado em andamento em Engenharia e Ciências Mecânicas, e experiência na industria, já analisei dados de produção e trabalhei com Manufacturing Execution System (MES) num ambiente industrial real.
-
-Hoje meu foco é métodos numéricos aplicados — construir ferramentas computacionais que resolvem problemas de engenharia com rigor matemático.
+### 🔬 Areas of Interest
+* Mathematical Modeling, Numerical Methods, and Computational Simulation
+* Data Analysis and Data Science
+* Software and Systems Development
 
 ---
 
-### 🚀 Projeto em destaque
+### 🧠 Scientific Computing & Data
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<table>
-<tr>
-<td width="70%">
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**[numerical_methods](https://github.com/saulohpm/numerical_methods)**
-Biblioteca Python de métodos numéricos, empacotada como projeto instalável (src-layout, testes automatizados, notebooks de benchmark e exemplo).
-
-- **Integração**: retângulo, trapézio, Simpson (1ª/2ª ordem), Monte Carlo, Gauss-Legendre
-- **Diferenciação**: diferenças finitas com fórmula fechada de ordem *n*, extrapolação de Richardson
-- **Séries**: Taylor, Fourier
-- **Raízes**: bisseção, Newton-Raphson, Ridders
-- **Álgebra linear**: jacobiano, Cholesky, com seleção de método (Gauss/LU/Cholesky) — em expansão para QR e métodos iterativos
-
-**Destaque técnico:** identifiquei e corrigi um bug de diferenças finitas encadeadas que amplificava erro de arredondamento, substituindo por uma fórmula fechada de diferença central — e ajustei a escala do passo por ordem da derivada para estabilizar a precisão em testes de série de Taylor.
-
-</td>
-</tr>
-</table>
+### 🧰 Documentation & Technical Writing
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
-### 🛠️ Stack
-
-| Área | Ferramentas |
-|---|---|
-| **Computação científica** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **Web** | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Documentação** | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
-
----
-
-### 📈 Atividade
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats-mu-eight-26.vercel.app/api?username=saulohpm&show_icons=true&theme=radical&hide=stars)
+### 📊 Statistics
 ![Top Langs](https://github-readme-stats-mu-eight-26.vercel.app/api/top-langs/?username=saulohpm&layout=compact&theme=radical&hide=Jupyter%20Notebook)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saulohpm&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-📫 Aberto a oportunidades em computação científica, análise numérica e engenharia de dados aplicada
-
-</div>
