@@ -1,8 +1,8 @@
 # Hi, I'm Saulo 👋
 
-Mathematics (Licentiate) student currently pursuing a graduate degree in Mathematics, with a background in Mechanical Engineering as well. I work at the intersection of mathematical modeling, numerical methods, and programming — building computational tools to solve scientific and engineering problems.
+Mathematics (Licentiate) student currently pursuing a graduate degree in Mathematics, with a background in Mechanical Engineering as well. I work at the intersection of mathematical modeling, numerical methods, and programming,building computational tools to solve scientific and engineering problems.
 
-🔭 Currently building my own numerical methods library in Python (see below)
+🔭 Currently building my own numerical methods library in Python (see below)  
 📚 Interests: mathematical modeling, computational simulation, numerical analysis, data science
 
 ### 🔬 Areas of Interest
