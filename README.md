@@ -2,9 +2,6 @@
 
 Mathematics (Licentiate) student currently pursuing a graduate degree in Mathematics, with a background in Mechanical Engineering as well. I work at the intersection of mathematical modeling, numerical methods, and programming,building computational tools to solve scientific and engineering problems.
 
-🔭 Currently building my own numerical methods library in Python  
-📚 Interests: mathematical modeling, computational simulation, numerical analysis, data science
-
 ### 🔬 Areas of Interest
 * Mathematical Modeling, Numerical Methods, and Computational Simulation
 * Data Analysis and Data Science
