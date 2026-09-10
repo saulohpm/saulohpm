@@ -1,7 +1,7 @@
 class Saulo:
     def __init__(self):
-        self.role = "Mathematics, Programming, and Mechanical Engineering student"
-        self.background = "Mechanical Engineering"
+        self.role = "Student and Researcher"
+        self.background = "Mathematics, Programming, and Mechanical Engineering"
 
         self.interests = [
             "mathematical modeling",
@@ -17,18 +17,14 @@ class Saulo:
             "B.Ed. - Mathematics",
         ]
 
-        self.projects = [
-            "numerical-methods",
-            "simulador-cdi",
-            "analise-carteira-investimentos",
-            "introducao-edo",
-        ]
-
         self.stack = ["Python", "JavaScript", "LaTeX", "HTML", "CSS"]
+
 
     def build(self, problem):
         return f"a computational tool for: {problem}"
 
 
->>> Saulo().build("engineering problem")
-'a computational tool for: engineering problem'
+>>> Saulo().build("math problem")
+'a computational tool for: math problem'
+>>> print("Check out the repositories and projects below")
+Check out the repositories and projects below'
