@@ -1,2 +1,1 @@
-# Hide Notebook Jupyter in Github
-*.ipynb linguist-generated=true
+*py linguist-generated=true
